@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    text-align: center;
+} 
+
+.ed {
+    color: red;
+}
+
+.hobby{
+    color: yellowgreen;
+}
+
+.center{
+    text-align: center;
+    align-content: center;
+}
+
+#para { 
+    color: violet;
+}
